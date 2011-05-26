@@ -1,0 +1,15 @@
+{
+  "author": "Francois Lafortune, quickredfox <code@quickredfox.at> (http://about.me/quickredfox)",
+  "name": "jquery-fetch",
+  "description": "Wraps ajax calls, adding cache storage support and unlike $.ajax() it ALWAYS retuns a promise",
+  "version": "0.0.1",
+  "main": "./lib/fetch.js",
+  "dependencies": {
+      "jquery": ">=1.6.0"
+  },
+  "devDependencies": {
+      "nodeunit": ">=0.5.1",
+      "coffee-script": ">=1.1.1",
+      "jake": ">=0.1.8"
+  }
+}
