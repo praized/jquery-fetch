@@ -11,5 +11,8 @@
       "nodeunit": ">=0.5.1",
       "coffee-script": ">=1.1.1",
       "jake": ">=0.1.8"
+  },
+  "publishConfig": {
+      "registry": "http://needium.iriscouch.com"
   }
 }
